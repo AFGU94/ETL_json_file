@@ -13,7 +13,6 @@ This project aims to extract and transform a JSON file containing nested movie d
 
 ## Requirements
 
-* Python 3.8 or above
 * Pandas
 * Json
 * Missingno
